@@ -50,7 +50,7 @@ The reason to choose one over another is to ensure that states $S$ and actions $
 ### Part 1
 The total return value is `395.42` dollars.
 
-```
+```python
 import random
 import matplotlib.pyplot as plt
 
